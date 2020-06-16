@@ -5,10 +5,7 @@
  */
 package softwareii;
 
-/**
- *
- * @author CAMILO
- */
+
 public class Main {
 
     /**
@@ -16,6 +13,7 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("Hola, mi nombre es Sebastian Rueda");
+        System.out.println("\nHola, mi nombre es Andrés Salazar");
     }
     
 }
